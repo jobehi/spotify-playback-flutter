@@ -23,6 +23,7 @@ class SpotifyPlayback {
 
   /// The play method is used to play an song/album/playlist
   static Future<bool> play(String id) async {
+    print(id);
     final bool success = await _channel.invokeMethod("playSpotify", {"id": id});
     return success;
   }
