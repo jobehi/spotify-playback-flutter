@@ -204,7 +204,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>SpotifyPlaybackPlugin</find>
-      <find>io.feesie.spotifyplayback</find>
+      <find>io.feesie.spotify.spotifyplayback</find>
       <find>connectSpotify</find>
       <find>getPlatformVersion</find>
       <find>spotify_playback</find>

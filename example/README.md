@@ -16,6 +16,6 @@ The only thing needed to use this example app is an registerd apllication.
 
 Please add an new app here, https://developer.spotify.com/dashboard/applications
 
-And register the Android app, with this application id  `io.feesie.spotify.playback.example` and your development signing cert SHA1 fingerprint
+And register the Android app, with this application id  `io.feesie.spotify.spotifyplayback.example` and your development signing cert SHA1 fingerprint
 
 For an more detailed guide to do this, go here: https://developer.spotify.com/documentation/general/guides/app-settings/

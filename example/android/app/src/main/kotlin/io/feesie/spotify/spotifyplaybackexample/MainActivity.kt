@@ -1,4 +1,4 @@
-package io.feesie.spotify.playback.example
+package io.feesie.spotify.spotifyplayback.example
 
 import android.os.Bundle
 
