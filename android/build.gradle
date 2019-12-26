@@ -1,4 +1,4 @@
-group 'io.feesie.spotify.playback'
+group 'io.feesie.spotifyplayback.spotifyplayback'
 version '1.0-SNAPSHOT'
 
 buildscript {
